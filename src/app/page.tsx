@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Hero from "@/components/hero";
 import Features from "@/components/features";
 import HowItWorks from "@/components/howitworks";
